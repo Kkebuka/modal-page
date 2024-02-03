@@ -14,7 +14,7 @@ body {
 }
 
 .container {
-    width: 40%;
+    width: 80%;
     max-width: 400px;
     height: 250px;
     display: flex;
@@ -37,11 +37,11 @@ body {
     justify-content: center;
     visibility: hidden;
     index: 999;
-    background-color: rgba(0, 0, 255, 0.315);
+    background-color: rgba(48, 48, 177, 0.199);
 
 }
 .modal-container {
-    width: 40%;
+    width: 80%;
     max-width: 400px;
     height: 250px;
     display: flex;
@@ -71,3 +71,4 @@ body {
 a {
     text-decoration: none;
 }
+@med
