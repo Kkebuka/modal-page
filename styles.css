@@ -25,6 +25,10 @@ body {
     font-size: 1.5rem;
     border-radius: 5px;
 }
+.open{
+    width: 100px;
+    height: 30px;
+}
 
 .modal-open {
     position: fixed;
