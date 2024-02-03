@@ -28,6 +28,7 @@ body {
 .open{
     width: 100px;
     height: 30px;
+    font-weight: 600;
 }
 
 .modal-open {
