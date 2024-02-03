@@ -4,7 +4,6 @@ const closeModal = document.querySelector('.close');
 
 openModal.addEventListener('click',function(){
     modalDiv.style.visibility = 'visible';
-    alert('e work')
 })
 
 closeModal.addEventListener('click',function(){
